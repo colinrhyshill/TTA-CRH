@@ -1,0 +1,5 @@
+fSta = str(input("What's your favorite Starter?\n"))
+fMai = str(input("What's your favorite Main Course?\n"))
+fDes = str(input("What's your favorite Dessert?\n"))
+fDri = str(input("What's your favorite Drink?\n"))
+print("Your favorite meal begins with " + fSta + ", followed by " + fMai + " and ends with " + fDes + "; which you of course wash down with a " + fDri)
